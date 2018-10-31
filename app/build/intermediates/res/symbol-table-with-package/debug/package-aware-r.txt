@@ -785,6 +785,7 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id txtSensorList
 id uniform
 id up
 id useLogo
